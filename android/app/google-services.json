@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "42207404814",
-    "project_id": "futter-demo-chat",
+    "project_number": "_____",
+    "project_id": "_______",
     "storage_bucket": "futter-demo-chat.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:42207404814:android:e90499f352bdcd37bc6d5f",
+        "mobilesdk_app_id": "___",
         "android_client_info": {
           "package_name": "com.example.chat_app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAMYkMlP5BVj2kkcuv9dD0GHJKjTc-Fczs"
+          "current_key": "USE_YOUR_KEY"
         }
       ],
       "services": {
